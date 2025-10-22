@@ -1,6 +1,6 @@
 # usalamaapp
 
-Welcome to the Jatayu Disaster Management project repository!
+Welcome to the usalamaapp Disaster Management project repository!
 
 ## Getting Started
 
