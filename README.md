@@ -1,4 +1,4 @@
-# Jatayu Disaster Management System
+# usalamaapp
 
 Welcome to the Jatayu Disaster Management project repository!
 
@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 Navigate to the "client" directory:
 
     ```bash
-     cd Jatayu/client
+     cd usalamaapp/client
     ```
 
 Install project dependencies using npm:
@@ -51,7 +51,7 @@ Feel free to customize this README to provide more specific information about yo
 
 Happy coding!
 
-# JATAYU!
+# usalamaapp
 ![Screenshot 2024-02-01 170955](https://github.com/Nevish-302/Jatayu/assets/62387252/e975c4ca-c86e-4bc7-9fe7-de568dd6771d)
 
 
@@ -169,8 +169,8 @@ Happy coding!
 
 
 - Me (Backend + Frontend DEV)
-- Yuvraj Singh (Android DEV)
-- Vibhuti (Android DEV)
-- Uravashi (Backend DEV)
-- Aayush Aryan (Frontend DEV)
-- Yogita (Designer)
+- (Android DEV)
+- (Android DEV)
+- (Backend DEV)
+- (Frontend DEV)
+- (Designer)
